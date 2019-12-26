@@ -1,4 +1,8 @@
 # Default ignored files
+.idea/
+/inspectionProfiles
 /workspace.xml
-
-.idea
+/misc.xml
+/modules.xml
+/Python-Basics.iml
+/vcs.xml
