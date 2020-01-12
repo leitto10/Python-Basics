@@ -1,3 +1,5 @@
+# a program that sells tickets...
+
 TICKET_PRICE = 10
 SERVICE_CHARGE = 2
 
