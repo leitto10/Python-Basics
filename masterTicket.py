@@ -9,7 +9,7 @@ def calculate_price(number_of_tickets):
 # run this code continioslly until we run out of tickets.
 while tickets_remaining:
     print("There are {} tickets remaining.".format(tickets_remaining))
-    name = raw_input("What is your name: ")
+    name = input("What is your name: ")
     num_tickets = input("How many tickets would you like? {}  ".format(name))
     try:
         num_tickets = int(num_tickets)

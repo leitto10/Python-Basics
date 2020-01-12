@@ -3,6 +3,7 @@
 
 name = input("What is your name?: ")
 age = int(input("How old are you?: "))
-year = str((2016 - age) + 50)
+currentYear = int(input("What year is it?: "))
+year = str((currentYear - age) + 50)
 
 print(name + " will be 50 years old in the year of " + year)
